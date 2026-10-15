@@ -8,7 +8,7 @@ Eine neue Klasse nach dem Vorbild des Hexenmeisters aus World of Warcraft, gebau
 - Komplett bis Stufe 20 (für Stufe 13–20 braucht ihr *UnlockLevelCurve*)
 - 21 eigene Items und eine kleine Questreihe
 
-**Download:** [Neueste Version unter Releases](../../releases/latest), dort die Datei `FelWarlock.pak`.
+**Download:** [Neueste Version unter Releases](https://github.com/Frostmagier/bg3-fel-hexenmeister/releases/latest), dort die Datei `FelWarlock.pak`.
 
 ---
 
@@ -21,7 +21,7 @@ Eine neue Klasse nach dem Vorbild des Hexenmeisters aus World of Warcraft, gebau
 
 ### 2. Datei herunterladen
 
-Unter [Releases](../../releases/latest) auf `FelWarlock.pak` klicken. Fragt der Browser, ob du die
+Unter [Releases](https://github.com/Frostmagier/bg3-fel-hexenmeister/releases/latest) auf `FelWarlock.pak` klicken. Fragt der Browser, ob du die
 Datei behalten willst, sag ja. Die Datei ist kein ZIP und muss nicht entpackt werden.
 
 ### 3. In den Mods-Ordner legen
@@ -73,7 +73,7 @@ Honour-Runde holt.
 Wenn Tim eine neue Version hochlädt:
 
 1. Spiel beenden.
-2. Neue `FelWarlock.pak` aus [Releases](../../releases/latest) laden.
+2. Neue `FelWarlock.pak` aus [Releases](https://github.com/Frostmagier/bg3-fel-hexenmeister/releases/latest) laden.
 3. Die alte Datei im Mods-Ordner damit ersetzen (gleicher Name `FelWarlock.pak`).
 4. Spiel starten. Im Mod-Manager steht jetzt die neue Version.
 
