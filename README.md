@@ -4,9 +4,9 @@ Eine neue Klasse nach dem Vorbild des Hexenmeisters aus World of Warcraft, gebau
 **DnD 5.5e All-in-One BEYOND**. Im Spiel heißt sie **Fel-Hexenmeister** (englisch *Fel Warlock*).
 
 - Drei Spezialisierungen: Gebrechen, Zerstörung, Dämonologie
-- Seelensplitter, Flüche, Wichtel und Teufelsjäger, später weitere Dämonen
+- Seelensplitter, Flüche, Wichtel, Teufelsjäger, Leerwandler und Sukkubus
 - Komplett bis Stufe 20 (für Stufe 13–20 braucht ihr *UnlockLevelCurve*)
-- 21 eigene Items und eine kleine Questreihe
+- 27 eigene Items, eine kleine Questreihe und zwei Rätsel
 
 **Download:** [Neueste Version unter Releases](https://github.com/Frostmagier/bg3-fel-hexenmeister/releases/latest), dort die Datei `FelWarlock.pak`.
 
@@ -65,6 +65,30 @@ Sobald ihr einen Spielstand mit dem Mod gespielt habt, braucht dieser Spielstand
 zu deaktivieren kann den Spielstand kaputtmachen. Der Mod ist neu und ab Stufe 3 noch wenig im Spiel
 getestet. Probiert ihn deshalb erst in einem neuen gemeinsamen Spielstand aus, bevor ihr ihn in eure
 Honour-Runde holt.
+
+---
+
+## Neu in 0.5
+
+- **Gebrechen wie in WoW Midnight:** Qual erzeugt Splitter, Instabiles Gebrechen (stapelt bis drei) und Saat der Verderbnis
+  geben sie aus. Neu sind Dunkle Ernte, Verderbter Makel, Einbruch der Nacht, Splitterinstabilität und ab Stufe 9 ein
+  Heldentalent zur Wahl (Höllenrufer oder Seelenernter), das auf 13 und 17 wächst.
+- **Alle Stufen bis 20 bringen etwas:** Leerwandler, Sukkubus, drei Flüche, Lebenstrichter, Teufelsrausch, Dämon
+  unterwerfen, Grimoire der Opferung und weitere.
+- **Fehler behoben:** Die Splitter füllten sich über „Gequälte Seelen“ ständig wieder auf. Der Wichtel lässt seine
+  Armbrust nicht mehr fallen.
+- **Neue Items** in Akt 1 bis 3, darunter eine Robe und Hörner, die man über zwei Rätsel findet.
+- **Mehr Fläche und Kontrolle früh** (nach dem ersten Abend im Honour-Run):
+  - Verderbnis und Qual treffen pro Bonusaktion **zwei Ziele**. Für nur ein Ziel nach dem ersten Klick bestätigen.
+  - **Saat der Verderbnis ab Stufe 3**, Verderbter Makel ab 5.
+  - **Leerwandler ab Stufe 2.**
+  - Neu: **Schreckensgeheul** (Stufe 3, Gegner in 6 m fliehen) und **Schattenfuror** (Stufe 5, Gegner in 3 m betäubt),
+    je einmal pro Short Rest.
+  - **Bösartige Verzückung** zählt jedes Instabile Gebrechen einzeln, macht ab Stufe 5 2W6 pro Effekt (vorher 1W8) und
+    trifft auch neutrale Kreaturen, die du belegt hast.
+  - **Seelendieb** trifft immer (kein Rettungswurf mehr) und würfelt W10 statt W8.
+- **Niemand muss umskillen:** Was auf Stufe 2 bis 5 neu ist, schaltet ein Passiv frei, das jeder Hexenmeister schon hat.
+  Ein Charakter auf Stufe 5 hat nach dem Laden sofort alles.
 
 ---
 
