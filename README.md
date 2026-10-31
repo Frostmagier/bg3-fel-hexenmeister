@@ -79,7 +79,8 @@ Honour-Runde holt.
   Armbrust nicht mehr fallen.
 - **Neue Items** in Akt 1 bis 3, darunter eine Robe und Hörner, die man über zwei Rätsel findet.
 - **Mehr Fläche und Kontrolle früh** (nach dem ersten Abend im Honour-Run):
-  - Verderbnis und Qual treffen pro Bonusaktion **zwei Ziele**. Für nur ein Ziel nach dem ersten Klick bestätigen.
+  - Verderbnis und Qual treffen pro Bonusaktion **zwei Ziele**. Für nur ein Ziel nach dem ersten Klick den grünen
+    Haken neben der Zielanzeige („1 Target(s)“) drücken.
   - **Saat der Verderbnis ab Stufe 3**, Verderbter Makel ab 5.
   - **Leerwandler ab Stufe 2.**
   - Neu: **Schreckensgeheul** (Stufe 3, Gegner in 6 m fliehen) und **Schattenfuror** (Stufe 5, Gegner in 3 m betäubt),
