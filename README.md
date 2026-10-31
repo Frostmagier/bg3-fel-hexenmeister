@@ -79,6 +79,14 @@ Wenn Tim eine neue Version hochlädt:
 
 Beide müssen immer auf derselben Version sein.
 
+### Neu in 0.4.2
+
+- **Schriftrollen:** Der Fel-Hexenmeister kann jetzt alle Zauberschriftrollen lesen, die DnD 5.5e einem
+  Hexenmeister erlaubt, zum Beispiel Nebelschritt, Hex oder Hypnotisches Muster. Wie beim Hexenmeister
+  gilt: Der Grad der Rolle darf höchstens eins über deinem höchsten Zauberplatz liegen. Rollen anderer
+  Klassen, etwa Feuerball, bleiben gesperrt.
+- Sonst ist alles wie in 0.4.1. Niemand muss umskillen.
+
 ---
 
 ## Wenn etwas nicht klappt
