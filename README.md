@@ -6,7 +6,8 @@ Eine neue Klasse nach dem Vorbild des Hexenmeisters aus World of Warcraft, gebau
 - Drei Spezialisierungen: Gebrechen, Zerstörung, Dämonologie
 - Seelensplitter, Flüche, Wichtel, Teufelsjäger, Leerwandler und Sukkubus
 - Komplett bis Stufe 20 (für Stufe 13–20 braucht ihr *UnlockLevelCurve*)
-- 27 eigene Items, eine kleine Questreihe und zwei Rätsel
+- 49 eigene Items, eine kleine Questreihe und zwei Rätsel
+- Talentreihen wie in WoW: auf vielen Stufen eins aus drei Talenten
 
 **Download:** [Neueste Version unter Releases](https://github.com/Frostmagier/bg3-fel-hexenmeister/releases/latest), dort die Datei `FelWarlock.pak`.
 
@@ -67,6 +68,36 @@ getestet. Probiert ihn deshalb erst in einem neuen gemeinsamen Spielstand aus, b
 Honour-Runde holt.
 
 ---
+
+## Neu in 0.6
+
+**Wichtig vor dem Spielen:** Beide brauchen genau diese Version. Wer schon über Stufe 2 ist, bekommt die Talente der
+erreichten Stufen erst nach einmal Umskillen bei **Withers** (100 Gold). Ohne Umskillen geht alles weiter, die Talente kommen
+dann ab dem nächsten Aufstieg.
+
+- **Talentreihen wie in WoW:** Beim Aufstieg wählst du eins aus drei Talenten (nicht zu verwechseln mit den D&D-Talenten
+  auf 4, 8, 12).
+  - Für alle Hexenmeister auf Stufe 2, 6 und 10: zum Beispiel mehr Trefferpunkte, Übung in leichter Rüstung, ein
+    stärkerer Gesundheitsstein, stärkere Dämonen oder Schattenfuror mit 5 m.
+  - Gebrechen auf 3, 5, 7 und 11: mehr Ziele für Qual und Verderbnis, eine größere Saat, mehr Splitter, Lebensentzug,
+    Qual startet höher, eine Gratis-Saat zum Kampfbeginn.
+  - Zerstörung und Dämonologie haben je eigene Reihen auf 3, 5, 7 und 11.
+- **Saat der Verderbnis als Kombo:** Die Saat macht beim Setzen keinen Schaden mehr. Leg danach **Qual** auf das Ziel,
+  dann platzt die Saat: 2W6 nekrotisch an jedem Gegner im Umkreis von 4 m (Konstitution halbiert), und alle bekommen Qual.
+  Liegen weitere Saaten in Reichweite, platzen sie mit. Stirbt der Träger, platzt sie ebenfalls.
+- **Leiste aufgeräumt:** Die Dämonen stecken in einem Zauber **Dämon beschwören**, die Flüche in **Flüche**. Klick
+  darauf und wähl aus der Liste. Fehlen sie in deiner Leiste, zieh sie aus dem Zauberbuch (Taste K) hinein.
+- **Gesundheitsstein** herstellen geht jetzt einmal pro **Short Rest**.
+- **Schattenfuror** ab Stufe 5, **Schreckensgeheul** ab Stufe 9, jetzt auf Entfernung: Furcht im Umkreis von 6 m mit
+  Weisheitsrettungswurf.
+- **Beschwörungsritual neu, wie in WoW:** Du rufst einen Verbündeten, auch über sein Porträt. Er wählt „Dem Ruf folgen“
+  (er tritt zu dir) oder „Ruf ablehnen“. Du kannst „Ritual abbrechen“. Nur außerhalb des Kampfes.
+- **22 neue Gegenstände** in allen drei Akten, darunter Dolche, Stäbe, Roben und Ringe. Neu sind auch Gegenstände für
+  die Nebenhand statt der Fackel: zwei Laternen und ein Grimoire. Sie entzünden kein Fett (im Spiel geprüft). Die erste
+  Laterne gibt es schon bei **Arron** im Druidenhain. Eine Kapuze in Akt 1 und ein Ring in Akt 2 geben
+  Übung in leichter Rüstung. Ein Teil liegt bei Händlern (Grymforge, Weg nach Rosymorn, Mondaufgangstürme, Unterstadt),
+  der Rest ist versteckt. Truhen füllen sich nur beim ersten Öffnen.
+- **Noch nicht im Spiel getestet:** das neue Ritual, die neuen Gegenstände und die Talente ab Stufe 7.
 
 ## Neu in 0.5
 
