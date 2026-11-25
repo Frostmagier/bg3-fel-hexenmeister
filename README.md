@@ -69,6 +69,13 @@ Honour-Runde holt.
 
 ---
 
+## Neu in 0.6.1
+
+- Zufallseffekte würfeln jetzt wirklich: **Seelenleitung** gab bisher jeden ausgegebenen Seelensplitter zurück, jetzt mit 20 %.
+  Dasselbe gilt für Gequälte Seelen, Seelenflut, Einbruch der Nacht, Splitterinstabilität, Ausmerzen der Schwachen, Glut,
+  Feuersbrunst, Dämonischer Ruf und die Splitter-Chancen von Laterne und Grimoire.
+- Spielstände laufen ohne Umskillen weiter. Beide brauchen wieder genau diese Version.
+
 ## Neu in 0.6
 
 **Wichtig vor dem Spielen:** Beide brauchen genau diese Version. Wer schon über Stufe 2 ist, bekommt die Talente der
