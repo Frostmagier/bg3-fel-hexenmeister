@@ -45,7 +45,7 @@ weil eine ältere schon da war: die alte löschen und die neue in `FelWarlock.pa
 3. Bei den installierten Mods **Fel Warlock** suchen und aktivieren. Er wird als Drittanbieter-Mod
    angezeigt, weil er nicht von mod.io kommt. Das ist richtig so.
 4. Fel Warlock muss **nach** DnD 5.5e All-in-One BEYOND laden, also in der Liste darunter stehen.
-5. In den Mod-Details sollte die Version stehen, die Tim dir genannt hat (zum Beispiel `0.7.0`).
+5. In den Mod-Details sollte die Version stehen, die Tim dir genannt hat (zum Beispiel `0.7.1`).
 
 ---
 
@@ -68,6 +68,27 @@ getestet. Probiert ihn deshalb erst in einem neuen gemeinsamen Spielstand aus, b
 Honour-Runde holt.
 
 ---
+
+## Neu in 0.7.1
+
+Beide brauchen wieder genau diese Version. Niemand muss umskillen.
+
+- **Neues Set „Schwarzes Banner“ für Gebrechen im Nahkampf:**
+  - **Nachtklinge** (Katana, sehr selten): Deine Waffentreffer legen Qual (falls das Ziel sie noch nicht hat) und frischen
+    die Verderbnis auf. Dazu +1W6 nekrotisch für jeden deiner Effekte auf dem Ziel (Qual, Verderbnis, Instabiles
+    Gebrechen). Gibt den Fernangriff **Nachtschnitt**: eine Sichel aus Dunkelheit bis 18 m, Zaubertrick-Würfel W8, legt bei
+    Treffer Verderbnis.
+  - **Mantel des Schwarzen Banners** (Robe, RK 12): Einmal pro Zug ein Seelensplitter, wenn deine Waffe ein Ziel mit
+    deiner Qual trifft. Zusammen mit der Nachtklinge gibt es **Nachtschnitt (Schwarzes Banner)** einmal pro Zug als
+    Bonusaktion.
+  - **So kommst du dran:** Jeder Fel-Hexenmeister hat den Zauber **Schwarzes Banner rufen** (Leiste, Reiter Fel Warlock).
+    Einmal wirken, dann liegen beide Teile im Inventar. Geht nur ein einziges Mal. Zusätzlich gibt es beides bei Arron
+    (Akt 1), Talli (Akt 2) und Helsik (Akt 3).
+  - Nachtschnitt steht in der Leiste unter **Common**. Die Bonusaktions-Fassung landet nicht immer von selbst in der
+    Leiste: Zauberbuch (K), Reiter Common, nach „Night“ suchen und in die Leiste ziehen.
+- Im Spiel geprüft: Rufen legt beide Teile ins Inventar, Katana-Modell, Treffer +5, Nahkampftreffer mit Zusatzschaden und
+  Verderbnis, Nachtschnitt 12 Schaden mit Verderbnis, die Bonusaktions-Fassung lässt sich wirken. Außerdem jetzt geprüft:
+  Qual und Verderbnis treffen mit echter Stufenbedingung 4 Ziele.
 
 ## Neu in 0.7
 
