@@ -45,7 +45,7 @@ weil eine ältere schon da war: die alte löschen und die neue in `FelWarlock.pa
 3. Bei den installierten Mods **Fel Warlock** suchen und aktivieren. Er wird als Drittanbieter-Mod
    angezeigt, weil er nicht von mod.io kommt. Das ist richtig so.
 4. Fel Warlock muss **nach** DnD 5.5e All-in-One BEYOND laden, also in der Liste darunter stehen.
-5. In den Mod-Details sollte die Version stehen, die Tim dir genannt hat (zum Beispiel `0.4.0`).
+5. In den Mod-Details sollte die Version stehen, die Tim dir genannt hat (zum Beispiel `0.7.0`).
 
 ---
 
@@ -68,6 +68,29 @@ getestet. Probiert ihn deshalb erst in einem neuen gemeinsamen Spielstand aus, b
 Honour-Runde holt.
 
 ---
+
+## Neu in 0.7
+
+Beide brauchen wieder genau diese Version. Niemand muss umskillen, laufende Spielstände bekommen alles beim Laden.
+
+- **Gebrechen räumt Gruppen ab, wie in WoW:**
+  - Qual und Verderbnis treffen ab Stufe 5 drei Ziele, ab Stufe 9 vier. Talente geben eins mehr obendrauf.
+  - Neu ab Stufe 5: **Qual und Verderbnis** als ein Zauber. Eine Bonusaktion legt beide auf alle Ziele.
+  - Die Explosion der Saat verteilt ab Stufe 5 auch Verderbnis.
+  - **Verderbter Makel** macht jetzt sofort 2W6 nekrotisch an allen Gegnern im Umkreis (Konstitution halbiert), ab Stufe 9 3W6.
+  - **Seuchenträger** (Talent auf Stufe 7) neu: Stirbt ein Gegner mit deiner Qual, springen Qual und Verderbnis auf alle
+    Gegner in 4 m.
+- **Mehr Schaden ab Stufe 9:** Instabiles Gebrechen und Bösartige Verzückung 2W8, Dunkle Ernte 1W8 (bisher erst ab 11).
+- **Instabiles Gebrechen** macht auf Stufe 3 und 4 1W6 statt 2W6. Früh war es zu stark.
+- **Einbruch der Nacht** löst mit 25 % statt 15 % aus.
+- **Fehler behoben, wichtig für euren Lauf:** Gequälte Seelen und Einbruch der Nacht haben seit 0.5 nie ausgelöst, weil
+  das Spiel DoT-Ticks anders kennzeichnet als gedacht. Jetzt bringen die Ticks deiner Dauerschäden auf Zielen mit Qual
+  wirklich Seelensplitter, und Einbruch der Nacht kommt. Im Spiel geprüft.
+- **Qual und Verderbnis** lässt eine laufende Qual auf ihrer Stufe, sie wächst also weiter, wenn du nur die Verderbnis
+  auffrischst. Wer die Qual neu starten will, nimmt den einzelnen Zauber Qual.
+- Im Spiel geprüft: alles oben, dazu Dunkle Ernte, Verzückung, Furcht, Schreckensgeheul, Schattenfuror, Gesundheitsstein,
+  Unendliche Entschlossenheit, Sukkubus, Lebenstrichter, Teleport und Dämonenhaut. **Noch nicht geprüft:** die Talente auf
+  Stufe 7 und 10 außer Seuchenträger.
 
 ## Neu in 0.6.1
 
